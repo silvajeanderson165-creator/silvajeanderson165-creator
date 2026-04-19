@@ -21,7 +21,7 @@
 ### 👨‍💻 Sobre Mim
 Especialista Full Stack na construção de ecossistemas digitais de ponta a ponta. Atuo orquestrando arquiteturas SaaS robustas que processam automações massivas no Backend sem comprometer a estabilidade, interligando a interfaces Frontends construídas sob rigorosas métricas de UI/UX (Cinemáticas).
 
-- 🚀 **Foco Atual:** Arquitetura de Software B2B, Integrações complexas com APIs em Background Tasks (Workers) e Ambientes Conteinerizados.
+- 🚀 **Foco Atual:** Arquitetura de Software Escalável, Criação de Interfaces de Alto Impacto (UI/UX) e Engenharia Full Stack de Ponta a Ponta.
 - ⚙️ **Core Stack:** TypeScript, React (Ecosystem), Python, Django, Tailwind, GraphQL, e PostgreSQL.
 - ☁️ **DevOps & Infra:** Docker, Pipelines CI/CD com Github Actions, Deploy Zero-downtime, Vps em Nuvem (AWS/DO).
 - 💡 **Filosofia:** *"Código limpo e interfaces de alto padrão técnico não são bônus, são requisitos mútuos."*
