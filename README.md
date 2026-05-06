@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Transformando+regras+de+negócio+em+SaaS+escaláveis;Arquiteturas+Resilientes+com+Django+%2B+React;Cloud-native,+Containers+e+Performance+Extrema" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%F0%9F%9F%A2+Disponível+para+contratação+imediata;%2B12+projetos+Full+Stack+em+produção+real;Do+banco+de+dados+ao+pixel+%E2%80%94+entrego+o+sistema+inteiro;React+%2B+Node+%2B+Python+%2B+Docker+%3D+seu+próximo+dev" alt="Typing SVG" />
   </a>
 </div>
 
