@@ -98,11 +98,11 @@ Desenvolvedor Full Stack na construção de ecossistemas digitais de ponta a pon
 |:--|
 | Plataforma B2B focada em inteligência financeira (MRR, Churn Prediction e Automação). Interface construída com *Design Tokens e JWT* se provando ao lado de um motor assíncrono criado em *Docker, Django, PostgreSQL e Celery* para cargas em lote. Possui Deploy Orquestrado real. |
 
-| **[BrieflyAI](https://github.com/jeanderson-silva8/BrieflyAI)** |
+| **[ BrieflyAI ](https://github.com/jeanderson-silva8/BrieflyAI)** |
 |:--|
 | Plataforma Full-Stack de Resumos Inteligentes e Transcrição em Tempo Real via Groq LPU. Streaming SSE palavra por palavra, Chat contextual com documentos, UI Glassmorphism premium. Arquitetura desacoplada Vercel + Render com segurança JWT Enterprise. |
 
-| **[TrendScope](https://github.com/jeanderson-silva8/TrendScope)** |
+| **[ TrendScope ](https://github.com/jeanderson-silva8/TrendScope)** |
 |:--|
 | Motor de Curadoria de Tendências Full Stack com tRPC, Drizzle ORM e TiDB Serverless. Busca em tempo real via Serper.dev API, cache inteligente, rate limiting e UI premium com Glassmorphism e skeleton loading. |
 
