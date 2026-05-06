@@ -76,6 +76,9 @@ Desenvolvedor Full Stack na construção de ecossistemas digitais de ponta a pon
 </tr>
 </table>
 
+---
+
+
 ### 📊 Progresso Tecnológico
 
 <table align="center">
@@ -103,7 +106,6 @@ Desenvolvedor Full Stack na construção de ecossistemas digitais de ponta a pon
 |:--|
 | Motor de Curadoria de Tendências Full Stack com tRPC, Drizzle ORM e TiDB Serverless. Busca em tempo real via Serper.dev API, cache inteligente, rate limiting e UI premium com Glassmorphism e skeleton loading. |
 
----
 
 ---
 
