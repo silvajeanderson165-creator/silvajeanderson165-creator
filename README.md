@@ -94,6 +94,33 @@ Desenvolvedor Full Stack na construção de ecossistemas digitais de ponta a pon
 
 ---
 
+### 📊 System Analytics & Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanderson-silva8&bg_color=0D0D12&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&title_color=F8FAFC" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanderson-silva8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D12&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanderson-silva8&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D0D12&title_color=38BDF8&text_color=94A3B8" height="190px" />
+</div>
+
+---
+
+### 🏆 Conquistas GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeanderson-silva8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeanderson-silva8&label=Profile%20Views&color=38BDF8&style=flat-square" />
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E293B,100:0D0D12&height=120&section=footer" />
 </div>
