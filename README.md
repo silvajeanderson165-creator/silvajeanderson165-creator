@@ -76,34 +76,7 @@ Desenvolvedor Full Stack na construção de ecossistemas digitais de ponta a pon
 </tr>
 </table>
 
----
 
-### 📊 System Analytics
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeanderson-silva8&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8&icon_color=A020F0&ring_color=38BDF8&rank_icon=percentile&include_all_commits=true&custom_title=Performance+Overview" />
-    <img src="https://github-readme-stats.vercel.app/api?username=jeanderson-silva8&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8&icon_color=A020F0&ring_color=38BDF8&rank_icon=percentile&include_all_commits=true&custom_title=Performance+Overview" height="180" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanderson-silva8&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=A020F0&text_color=94A3B8&custom_title=Linguagens+Dominadas" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanderson-silva8&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=A020F0&text_color=94A3B8&custom_title=Linguagens+Dominadas" height="180" alt="Top Langs"/>
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanderson-silva8&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=A020F0&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=475569" height="180" alt="Streak Stats"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanderson-silva8&bg_color=0D0D12&color=38BDF8&line=A020F0&point=38BDF8&area=true&area_color=A020F0&hide_border=true&custom_title=Gráfico%20de%20Contribuições" width="95%" alt="Activity Graph"/>
-</div>
-
----
 
 ### 🏆 Arquiteturas Destaque em Produção
 
