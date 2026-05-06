@@ -27,7 +27,19 @@ Desenvolvedor Full Stack na construção de ecossistemas digitais de ponta a pon
 * 💡 **Filosofia:** *"Código limpo e interfaces de alto padrão técnico não são bônus, são requisitos mútuos."*
 
 ---
+### 📊 Progresso Tecnológico
 
+<table align="center">
+<tr>
+<td align="center"><b>🗂️ Linguagens por Repositório</b></td>
+<td align="center"><b>⚡ Linguagens por Commit</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanderson-silva8&theme=tokyonight" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeanderson-silva8&theme=tokyonight" /></td>
+</tr>
+</table>
+---
 ### 💻 Arsenal Tecnológico
 
 <table align="center">
@@ -93,19 +105,6 @@ Desenvolvedor Full Stack na construção de ecossistemas digitais de ponta a pon
 | Motor de Curadoria de Tendências Full Stack com tRPC, Drizzle ORM e TiDB Serverless. Busca em tempo real via Serper.dev API, cache inteligente, rate limiting e UI premium com Glassmorphism e skeleton loading. |
 
 ---
-
-### 📊 Progresso Tecnológico
-
-<table align="center">
-<tr>
-<td align="center"><b>🗂️ Linguagens por Repositório</b></td>
-<td align="center"><b>⚡ Linguagens por Commit</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanderson-silva8&theme=tokyonight" /></td>
-<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeanderson-silva8&theme=tokyonight" /></td>
-</tr>
-</table>
 
 ---
 
