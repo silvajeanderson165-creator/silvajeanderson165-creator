@@ -97,7 +97,8 @@ Desenvolvedor Full Stack na construção de ecossistemas digitais de ponta a pon
 ### 📊 Tech Progress
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanderson-silva8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D12&title_color=38BDF8&text_color=94A3B8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanderson-silva8&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeanderson-silva8&theme=tokyonight" />
 </div>
 
 ---
