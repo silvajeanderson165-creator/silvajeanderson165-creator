@@ -94,12 +94,18 @@ Desenvolvedor Full Stack na construção de ecossistemas digitais de ponta a pon
 
 ---
 
-### 📊 Tech Progress
+### 📊 Progresso Tecnológico
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanderson-silva8&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeanderson-silva8&theme=tokyonight" />
-</div>
+<table align="center">
+<tr>
+<td align="center"><b>🗂️ Linguagens por Repositório</b></td>
+<td align="center"><b>⚡ Linguagens por Commit</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanderson-silva8&theme=tokyonight" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeanderson-silva8&theme=tokyonight" /></td>
+</tr>
+</table>
 
 ---
 
