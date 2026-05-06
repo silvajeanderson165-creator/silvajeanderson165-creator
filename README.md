@@ -109,9 +109,7 @@ Desenvolvedor Full Stack na construção de ecossistemas digitais de ponta a pon
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeanderson-silva8&label=Profile%20Views&color=38BDF8&style=flat-square" />
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E293B,100:0D0D12&height=120&section=footer" />
